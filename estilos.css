@@ -1,0 +1,14 @@
+.párrafo_uno{
+    color: red;
+    text-align: inherit;
+    margin-bottom: 0px;
+}
+
+.párrafo_dos{
+    color: blue;
+    vertical-align: middle;
+    font-size: 16px;
+    margin-top: 0px;
+    border: medium green dotted;
+    background-color: darkgoldenrod;
+}
